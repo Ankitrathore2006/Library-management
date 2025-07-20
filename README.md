@@ -13,4 +13,4 @@
 
 - 📄 Designed a user-friendly interface with responsive design using HTML, CSS, and Bootstrap.
 
-- 📄 This project is currently being used in my college.
+- 📄 This project is currently being used in [**Dr. B.R. Ambedkar College, Gwalior**](https://www.polygwalior.ac.in/)
